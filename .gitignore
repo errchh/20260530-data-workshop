@@ -22,7 +22,3 @@ admin/opentofu/.terraform.tfstate.lock.info
 admin/opentofu/generated/
 admin/opentofu/terraform.tfstate*
 admin/opentofu/terraform.tfvars
-
-# Workshop
-submission/clean.py
-team_private_key.pem
